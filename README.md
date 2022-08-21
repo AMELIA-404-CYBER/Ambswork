@@ -13,7 +13,7 @@
 - `rm -rf Ambswork`
 - `git clone https://github.com/AMELIA-404-CYBER/Ambswork`
 - `cd Ambswork`
-- `python Ambswork.py`
+- `python ambswork.py`
      
 
  ```This Tools is Free Enjoy ```</br>
